@@ -11,19 +11,15 @@ On initial call with SMC, the VFR aircraft is expected to provide:
 * Intentions
 
 Once this data has been received by the SMC controller, the controller shall then issue the QNH, Active, and if operating on a FPL, a squawk.
-At Johannesburg, filing a flight plan as VFR is not mandatory unlike Cape Town, so you do not need to ask for a pilot to file a flight plan.
+At Durban, filing a flight plan as VFR is not mandatory unlike Cape Town, so you do not need to ask for a pilot to file a flight plan.
 
 !!! info "VFR Phraseology"
-    "ZSDUR, thank you, start up approved, expect Runway 03L, QNH 1015, report ready for taxi."
+    "ZSDUR, thank you, start up approved, expect Runway 06, QNH 1015, report ready for taxi."
 
 
 ## Restrictions
 
-Whilst Johannesburg is able to accomodate Code F aircraft (Airbus A380-800, Boeing 747-800s or any aircraft with a wingspan between 65 and 80 metres), these aircraft are fairly restricted in where they are able to operate.
-
-The black hatched lines in this image indicate where an A380 is not permitted to taxi.
-
-![alt text](faora380.png)
+Whilst Durban King Shaka is able to accomodate Code F aircraft (Airbus A380-800, Boeing 747-800s or any aircraft with a wingspan between 65 and 80 metres), these aircraft are fairly restricted in where they are able to operate.
 
 ### Stand Restrictions
 
@@ -40,6 +36,29 @@ The black hatched lines in this image indicate where an A380 is not permitted to
 
 MARS — Multiple Aircraft Ramp System — is an airport gate design that allows a single aircraft parking stand to accommodate more than one type or size of aircraft.
 
+At Durban, the following stands can be used in conjuction with each other, up to a maximum of Code C (max 36m wingspan) aircraft on them.
+
+| Stands | Blocks off Stand |
+| :---------: | :---------: |
+| C1 and C3 | C2 |
+| C4 and C6 | C5 |
+| D1 and D3 | D2 |
+| D4 and D6 | D5 |
+
+![alt text](mars.png)
+
+### Taxiway and Apron Restrictions
+
+!!! warning 
+    The Airbus A380s should not be taxiied onto either the Alpha, Bravo or Echo Aprons at any time, as these are not suitable for them. They may only enter Aprons Charlie and Delta.
+
+| Aprons | Restricted to |
+| :---------: | :---------: |
+| Alpha Apron | Code C (max 36m wingspan)
+| Bravo Apron | Code C (max 36m wingspan)
+| Echo Apron | Code B (max 24m wingspan)
+
+![alt text](restrictionmap.png)
 
 
 ## Pushback Procedures
