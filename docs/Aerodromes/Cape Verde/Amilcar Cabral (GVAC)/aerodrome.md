@@ -7,8 +7,8 @@ King Shaka International Airport (IATA: DUR, ICAO: FALE), abbreviated KSIA, is t
 | :---------: | :----------------------------------: |
 | ICAO | GVAC |
 | IATA | SID |
-| Elevation | 304ft |
-| Transition Altitude | 5500ft |
+| Elevation | 177ft |
+| Transition Altitude | 7000ft |
 | Transition Level | by ATC (see TL table) |
 | Mag Variation | 26º W |
 
@@ -18,29 +18,26 @@ The following table should only be to determine the Transition Level for Durban 
 
 | QNH Range | TL |
 | :---------: | :---------: |
-| 946 - 962 | 85 |
-| 963 - 979 | 80 |
-| 980 - 996 | 75 |
-| 997 - 1013 | 70 |
-| 1014 - 1029 | 65 |
-| 1030 - 1046 | 60 |
-| 1047 - 1099 | 55 |
+| 942.2 - 959.4 | 100 |
+| 959.5 - 977.1 | 95 |
+| 977.2 - 995.0 | 90 |
+| 995.1 - 1013.2 | 85 | 
+| 1013.3 - 1031.6 | 80 |
+| 1031.7 - 1050.3 | 75 |
 
 ## Declared Distances
 
-| Runway | Course | TORA | TODA | ASDA | LDA | Remarks |
-| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
-| 06    | 062º    | 3700     | 4000     | 3700     | 3700    | Intersection departure TORA 2100M |
-| 24    | 242º    | 3700     | 4000     | 3700     | 3700    | Intersection departure TORA 2100M |
+| Runway | Course | TORA | TODA | ASDA | LDA | 
+| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | 
+| 01    | 008º    | 3000     | 3300     | 3000     | 3000    | 
+| 19    | 188º    | 3000     | 3300     | 3000     | 3000    | I   
 
 ## Radio Navigation & Landing Aids
 
 | Type | ID | Frequency | 
 | :---------: | :---------: | :---------: |
-| VOR DME | TGV | 115.6 MHz |
-| UHF DME (TACAN) | TGV | CH 103X |
-| ILS LOC 06 | TNI | 111.3 MHz |
-| ILS LOC 24 | TGI | 109.7 MHz |
+| VOR DME | CVS | 115.3 MHz |
+| ILS LOC 01 | SL | 109.9 MHz |
 
 ## Aprons 
 
@@ -73,5 +70,3 @@ FALE ATIS J 1835Z. EXP ZONE VMC. ARR RWY06 DEP RWY06. NIL SIDS AND STARS. **RCR 
 RCR should only be displayed in the ATIS once the RCR drops to a value of 5 or lower.
 
 If the RCAM value is 6, then this should not be displayed in the ATIS.
-
-![alt text](rcam.png)
