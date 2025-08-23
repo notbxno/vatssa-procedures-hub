@@ -5,8 +5,8 @@ King Shaka International Airport (IATA: DUR, ICAO: FALE), abbreviated KSIA, is t
 
 |  Durban King Shaka    |                           |
 | :---------: | :----------------------------------: |
-| ICAO | FALE |
-| IATA | DUR |
+| ICAO | GVAC |
+| IATA | SID |
 | Elevation | 304ft |
 | Transition Altitude | 5500ft |
 | Transition Level | by ATC (see TL table) |
