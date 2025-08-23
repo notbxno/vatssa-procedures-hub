@@ -8,8 +8,6 @@
 !!! warning
     All flights departing out of FALE must have their route checked and be in compliance with the latest Route Matrix set out by the ATNS. The Route Matrix below has been provided for easy cross checking of flights.
 
-
-
 | Destination / FIR Exit | Routing | Restrictions | Remarks 
 | :---------: | :---------: | :---------: | :---------: |
 | FABL | PMV UW61 BLV | - | - |
@@ -27,3 +25,33 @@
 | FVRG | ITMIL UT915 GESIL | FL290 - FL460 | - |
 | Exit via EPRET | ITMIL UB529 EPRET | - | - |
 | Lowveld Region | ITMIL UT915 IXESU | - | - |
+
+## Departure Procedures
+
+Runway 06
+
+| Fix | SID | Initial Climb | Remarks |
+| :---------: | :---------: | :---------: | :---------: |
+| GYV | GYV1A | FL70 | "GYV" said as Greytown. |
+| ITMIL | ITMIL1C | FL70 | - |
+| TUBIN | TUBIN1A | FL70 | - |
+
+Runway 24
+
+| Fix | SID | Initial Climb | Remarks |
+| :---------: | :---------: | :---------: | :---------: |
+| GYV | GYV2B | FL70 | "GYV" said as Greytown. |
+| ITMIL | OKTAN1A | FL70 | - |
+| TUBIN | TUBIN1B | FL70 | - |
+
+## Phraseology
+
+**The passing altitude to be issued in clearances is 2500ft.**
+
+SID
+!!! info "Delivery Phraseology"
+    "(callsign), cleared to (destination), FLxxx on request, after departure Runway XX, comply with the (SID), climb to FL70, passing 2500ft contact Durban Approach on 125.750, squawk (squawk)"
+
+Runway Track
+!!! info "Delivery Phraseology"
+    "(callsign), cleared to (destination), FLxxx on request, after departure Runway XX, non standard, maintain runway track, climb to FL70, passing 2500ft contact Durban Approach on 125.750, squawk (squawk)"
