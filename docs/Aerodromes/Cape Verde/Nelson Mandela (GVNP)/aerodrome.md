@@ -1,20 +1,20 @@
 # Aerodrome Data
-GVAC (Amílcar Cabral International Airport) is on Sal Island, Cape Verde, just outside the town of Espargos. It sits about 2 km from the west coast and serves as the main international gateway to the country, positioned in the central Atlantic, making it a key stopover point between Africa, Europe, and the Americas.
+GVNP (Nelson Mandela International Airport) is located on Santiago Island, Cape Verde, about 3 km northeast of the capital city Praia. It sits near the east coast and serves as the main domestic hub, while also handling some international flights.
 
 ## Aerodrome Details
 
 |  Amilcar Cabral    |                           |
 | :---------: | :----------------------------------: |
-| ICAO | GVAC |
-| IATA | SID |
-| Elevation | 177ft |
+| ICAO | GVNP |
+| IATA | RAI |
+| Elevation | 311ft |
 | Transition Altitude | 7000ft |
 | Transition Level | by ATC (see TL table) |
 | Mag Variation | 8º W |
 
 ## Transition Levels
 
-The following table should only be to determine the Transition Level for Amilcar Cabral International Airport (GVAC).
+The following table should only be to determine the Transition Level for Nelson Mandela International airport (GVNP).
 
 | QNH Range | TL |
 | :---------: | :---------: |
@@ -29,31 +29,29 @@ The following table should only be to determine the Transition Level for Amilcar
 
 | Runway | Course | TORA | TODA | ASDA | LDA | 
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | 
-| 01    | 008º    | 3000     | 3300     | 3000     | 3000    | 
-| 19    | 188º    | 3000     | 3300     | 3000     | 3000    |  
+| 03    | 031º    | 2005     | 2005     | 2005     | 1900    | 
+| 21    | 221º    | 2005     | 2005     | 2005     | 2005    |  
 
 ## Radio Navigation & Landing Aids
 
 | Type | ID | Frequency | 
 | :---------: | :---------: | :---------: |
-| VOR DME | CVS | 115.3 MHz |
-| ILS LOC 01 | SL | 109.9 MHz |
+| VOR DME NDB| SNT | 116.6 MHz |
 
 ## Aprons 
 
 | Apron | Stands | Entry/Exit Point | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| Main Apron | 1R - 7R | Twy C, B and F | C entry when on 01, B entry on 19 |
+| Main Apron | 1A - 8A | Twy B / A | |
 
 ## ATS Frequencies
 
 
 | Position    | Callsign              | Frequency | Remarks             |
 | :---------: | :---------: | :---------: | :---------: |
-| GVAC_ATIS   | Amilcabral ATIS     | 127.600   | -                   |
+| GVNP_ATIS   | Amilcabral ATIS     | 127.700   | -                   |
 | GVSC_DEL   | Sal Delivery     | 122.100   | Event use only, When online covers all airports in the FIR                   |
-| GVAC_0_GND    | Amilcabral Ground       | 122.650   | To be used for events only                   |
-| GVAC_TWR    | Amilcabral Tower    | 119.700   | -                   |
+| GVNP_TWR    | Amilcabral Tower    | 118.200   | -                   |
 | GVSC_APP    | Sal Approach | 126.400   | -                   |
 | GVSC_U_APP    | Sal Approach    | 128.300   | - |                |
 | GVSC_CTR    | Sal Control/Oceanic     | 127.100   | - |                |

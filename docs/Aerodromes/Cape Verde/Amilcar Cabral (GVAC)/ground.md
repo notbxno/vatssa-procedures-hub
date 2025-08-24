@@ -1,5 +1,5 @@
 # Ground
-The responsibility of GMC at Amilcabral Ground  falls to the dedicated Ground ATS unit, "Amilcabral Ground" (GVAC_0_GND) on 122.650 MHz. GMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. GMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway.
+The responsibility of GMC at Amilcabral Ground falls to the dedicated Ground ATS unit, "Amilcabral Ground" (GVAC_0_GND) on 122.650 MHz. GMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. GMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway.
 
 ## Visual Flight Rules (VFR) Aircraft.
 On initial call with GMC, the VFR aircraft is expected to provide:
@@ -18,7 +18,7 @@ At Sal, filing a flight plan as VFR is mandatory.
 
 ## Restrictions
 
-On all taxiways the largest aircraft that operate at GVAC IRL is the 787-800 operated by TUI, **No larger aircraft are permitted to operate at the airport**. However on VATSIM pilots dont understand this so you may get A/C larger than the 787-800, as a result of this ATC *may* deny pilots if they do this however this is not recommended
+On all taxiways the largest aircraft that operate at GVAC IRL is the 787-800 operated by TUI, **No larger aircraft are permitted to operate at the airport IRL**. However on VATSIM pilots dont understand this so you may get A/C larger than the 787-800, as a result of this ATC *may* deny pilots if they do this however this is not recommended
 
 ### Stand Restrictions
 

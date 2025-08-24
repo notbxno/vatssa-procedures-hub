@@ -1,16 +1,16 @@
 # Tower
-Amilcabral Tower is the main position that should be used at GVAC when online they operate of the frequency of 119.700, when online they assume the responsibilities of GND and DEL when offline (Prior permission required), they control a 5NM airspace around the GVAC airport.
+Amilcabral Tower is the main position that should be used at GVNP when online they operate of the frequency of 119.700, when online they assume the responsibilities of DEL when offline (Prior permission required), they control The entire GVNP CTR up to 3500 feet, there after APP covers traffic so coordination will be required.
 
 !!! Warning
     S1 controllers are permitted to connect to TWR after they have completed S2 theory exam.
 
 ## Visual Flight Rules (VFR) Aircraft
 
-  * There are no published VFR departure or arrival routings in and out of the Sal CTR. Traffic should instead be asked to report either leaving or entering the CTR.
-  * Circuit altitude is 1500ft AGL (1700 ft), with circuits conducted Left hand on 01 and Right hand on 19 
+  * There are no published VFR departure or arrival routings in and out of the Praia CTR. Traffic should instead be asked to report either leaving or entering the CTR.
+  * Circuit altitude is 1500ft AGL (1700 ft), with circuits conducted Right hand on 03 and Left hand on 19 to avoid terrain
 
 !!! tip "Circuit Clearance"
-    GPHPY, hold position, after departure Runway 01, left hand circuits, not above 1700 ft, report left downwind Runway 01.
+    GPHPY, hold position, after departure Runway 03, left hand circuits, not above 1700 ft, report left downwind Runway 03.
 
 !!! tip "Exit Clearance"
     GPHPY, hold position, after departure Runway 03, cleared to leave the control zone to the east, not above 1500ft report Leaving the CTR.
@@ -42,5 +42,5 @@ Amilcabral Tower is the main position that should be used at GVAC when online th
 ## Runway Selection
 
 !!! Note "Runway Selection"
-    Runway 01 should be used unless the tailwind component is greater than 10 knots and runway 19 in use with the direction of wind.
+    Runway 03 should be used unless the tailwind component is greater than 10 knots and runway 21 in use with the direction of wind.
 
