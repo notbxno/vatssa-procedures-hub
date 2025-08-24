@@ -1,5 +1,5 @@
 # Ground
-The responsibility of GMC at Amilcabral Ground falls to the dedicated Ground ATS unit, "Amilcabral Ground" (GVAC_0_GND) on 122.650 MHz. GMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. GMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway.
+The responsibility of GMC at Amilcabral Ground falls to the dedicated Ground ATS unit, There is no designated GND position so this will be TWR's responsibility. GMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. GMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway.
 
 ## Visual Flight Rules (VFR) Aircraft.
 On initial call with GMC, the VFR aircraft is expected to provide:
@@ -18,12 +18,7 @@ At Sal, filing a flight plan as VFR is mandatory.
 
 ## Restrictions
 
-On all taxiways the largest aircraft that operate at GVAC IRL is the 787-800 operated by TUI, **No larger aircraft are permitted to operate at the airport IRL**. However on VATSIM pilots dont understand this so you may get A/C larger than the 787-800, as a result of this ATC *may* deny pilots if they do this however this is not recommended
-
-### Stand Restrictions
-
-!!! Note "Stand Restrictions"
-    All stands allow Medium aircraft to ocupy them I.E. A320/B738 However it is recommended that if larger catagory of aircraft connect they ocupy stand 10, 8, 7, or 6
+On all taxiways the largest aircraft that operate at GVNP IRL is the A320N operated by Multiple airlines, **No larger aircraft are permitted to operate at the airport IRL**. However on VATSIM pilots dont understand this so you may get A/C larger than the A320N, as a result of this ATC *may* deny pilots if they do this however this is not recommended
 
 
 ### Taxiway and Apron Restrictions
@@ -66,22 +61,7 @@ Pushback is very self explanitory however some outliers exist, examples of which
 
 
 ### Arriving Aircraft
-When an aircraft arrives into GVAC, it is recommened to issue a progressive taxi, this is due to the small size of the apron, an example of this is provided bellow.
-
-!!! Note "Progressive taxi example during runway 19 operations"
-
-    ![alt text](Progtaxi.png)
-
-    At first the aircraft should be instructed to taxi via A1 and hold short of B
-
-    Once sure the apron will be clear for the passing aircraft, they may be cleared into the apron
-
-    !!! Warning 
-        Common sense should be applied when using progressive taxi, as it may not be necessary for apron operations
-
+When an aircraft arrives into GVNP, They should be instructed to taxi straight to the gate, this is due to the small ground movement area.
 
 !!! Tip "Phraseology"
-    "TOM1VY, Taxi via A1 holdshort **OF** taxiway B"
-
-    Once sure the apron will be clear from their arrival:
     "TOM1VY, taxi stand XX via E"

@@ -20,7 +20,7 @@ Runway 01
 | IRPOT | IRPOT 1A | FL80 | After IRPOT a Transition must be assigned see table bellow | 
 | DISDA | DISDA 1A | FL120 | After DISDA a Transition must be assigned see table bellow | 
 | DIMKI | DIMKI 1A | FL120 | - | 
-| NCL | MCL 1A | - | - | 
+| NCL | NCL 1A | - | - | 
 | LISOS | LISOS 1A | FL120 | After LISOS a Transition must be assigned see table bellow | 
 
 
