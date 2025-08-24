@@ -70,8 +70,8 @@ When an aircraft arrives into GVAC, it is recommened to issue a progressive taxi
 
 !!! Note Progressive taxi example during runway 19 operations
 
-    ![alt text](progtaxi.png)
-    
+    ![alt text](Progtaxi.png)
+
     At first the aircraft should be instructed to taxi via A1 and hold short of B
 
     Once sure the apron will be clear for the passing aircraft, they may be cleared into the apron
