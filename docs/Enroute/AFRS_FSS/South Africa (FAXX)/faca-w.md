@@ -118,5 +118,4 @@ There is no SELCAL capabilities within the Cape Town FIR.
 
 !!! info
     All arrival clearances are to be transmitted through voice on initial contact. CPDLC may not be used for this function to issue arrival clearances.
-s
 
