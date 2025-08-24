@@ -58,3 +58,11 @@ Runway 26: Left Hand
 | H     | 2 | |||
 | M     | 3 | 2 | ||
 | L     | 3 | 2 | 2 | |
+
+## Takeoff Phraseology
+
+!!! info "Takeoff (Full Length)"
+    ZSABC, Runway 08 full length, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
+
+!!! info "Takeoff (Intersection)"
+    ZSABC, Runway 08 at Intersection A2, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
