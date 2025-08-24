@@ -15,7 +15,7 @@ O. R. Tambo International Airport is an international airport serving the twin c
 
 ## Transition Levels
 
-The following table should only be to determine the Transition Level for Durban King Shaka (FALE).
+The following table should only be to determine the Transition Level for O.R. Tambo (FAOR).
 
 | QNH Range | TL |
 | :---------: | :---------: |
