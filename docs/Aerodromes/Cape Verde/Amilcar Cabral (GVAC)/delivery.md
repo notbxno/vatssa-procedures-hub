@@ -36,6 +36,7 @@ Runway 19
 | LISOS | LISOS 1B | FL120 | After LISOS a Transition must be assigned see table bellow | 
 
 Transitions for Departures
+
 | Fix | Transitions |
 | :---------: | :---------: |
 | GADUN | GADUN NEMDO MOPAK LININ |
