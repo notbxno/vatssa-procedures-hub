@@ -1,16 +1,16 @@
 # Aerodrome Data
-King Shaka International Airport (IATA: DUR, ICAO: FALE), abbreviated KSIA, is the primary international airport serving Durban, South Africa. It is located in La Mercy, KwaZulu-Natal, approximately 35 km (22 mi) north of the city centre of Durban.
+GVAC (Amílcar Cabral International Airport) is on Sal Island, Cape Verde, just outside the town of Espargos. It sits about 2 km from the west coast and serves as the main international gateway to the country, positioned in the central Atlantic, making it a key stopover point between Africa, Europe, and the Americas.
 
 ## Aerodrome Details
 
-|  Durban King Shaka    |                           |
+|  Amilcar Cabral    |                           |
 | :---------: | :----------------------------------: |
 | ICAO | GVAC |
 | IATA | SID |
 | Elevation | 177ft |
 | Transition Altitude | 7000ft |
 | Transition Level | by ATC (see TL table) |
-| Mag Variation | 26º W |
+| Mag Variation | 8º W |
 
 ## Transition Levels
 
@@ -43,30 +43,17 @@ The following table should only be to determine the Transition Level for Durban 
 
 | Apron | Stands | Entry/Exit Point | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| Apron A | A1 - A16 | Twy C, E or F | - |
-| Apron B | B1 - B9 | Twy C, E or F | - |
-| Apron C | C1 - C6 | Twy F | - |
-| Apron D | D1 - D6 | Twy N | - |
-| Apron E | - | Twy A | - |
+| Main Apron | 1R - 7R | Twy C, B and F | C entry when on 01, B entry on 19 |
 
 ## ATS Frequencies
 
 
 | Position    | Callsign              | Frequency | Remarks             |
 | :---------: | :---------: | :---------: | :---------: |
-| FALE_ATIS   | King Shaka ATIS     | 127.000   | -                   |
-| FALE_GND    | King Shaka Ground       | 121.650   | -                   |
-| FALE_TWR    | King Shaka Tower    | 118.450   | -                   |
-| FALE_APP    | Durban Approach | 125.750   | -                   |
-| FAJA_E_CTR    | Johannesburg Area     | 129.100   | - |
-| FAJA_S_CTR    | Johannesburg Area     | 120.300   | Same frequency is used if FAJA_C is working standalone and not W + E combined. |
-| FAJA_CTR    | Johannesburg Area     | 134.400   | Same frequency is used if FAJA_NE or FAJA_N is working standalone and not any of the South sectors.                   |
-
-## Operation of the ATIS
-Durban King Shaka is one of three airports in South Africa which include RCAM (Runway Condition Assessment Matrix), displayed as RCR (VALUE) broadcasted in the ATIS. To set an RCAM value, in vATIS, click on the **NOTAMS** button to select an RCR value.
-
-FALE ATIS J 1835Z. EXP ZONE VMC. ARR RWY06 DEP RWY06. NIL SIDS AND STARS. **RCR 5/5/5**. TRL 65. WIND 190/05KTS. CAVOK . T16. DP14. QNH 1014HPA. NOSIG. CONFIRM ATIS J
-
-RCR should only be displayed in the ATIS once the RCR drops to a value of 5 or lower.
-
-If the RCAM value is 6, then this should not be displayed in the ATIS.
+| GVAC_ATIS   | Amilcabral ATIS     | 127.600   | -                   |
+| GVSC_DEL   | Sal Deliver     | 122.100   | Event use only, When online covers all airports in the FIR                   |
+| GVAC_0_GND    | Amilcabral Ground       | 122.650   | To be used for events only                   |
+| GVAC_TWR    | Amilcabral Tower    | 119.700   | -                   |
+| GVSC_APP    | Sal Approach | 126.400   | -                   |
+| GVSC_U_APP    | Sal Approach    | 128.300   | - |                |
+| GVSC_CTR    | Johannesburg Area     | 127.100   | - |                |
