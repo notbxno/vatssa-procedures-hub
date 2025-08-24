@@ -15,7 +15,7 @@ Amilcabral Tower is the main position that should be used at GVAC when online th
 !!! tip "Exit Clearance"
     GPHPY, hold position, after departure Runway 06, cleared to leave the control zone to the east, not above 1500ft report Leaving the CTR.
 
-    !!! warning Exit coordintation
+    !!! warning "Exit coordintation"
         Any CTR exits should be coordinated with any position above you prior to engine start. And only then will a start clearence be given 
 
 
@@ -41,6 +41,6 @@ Amilcabral Tower is the main position that should be used at GVAC when online th
 
 ## Runway Selection
 
-!!! Note Runway Selection
+!!! Note "Runway Selection"
     Runway 01 should be used unless the Crosswind component is greater than 10 knots and runway 19 in use with the direction of wind.
 
