@@ -46,6 +46,14 @@ The Tower East controller is responsible for the operations of Runway 03R/21L, i
 !!! note   
     Aircraft which are not affected by wake turbulence, and are operating on a different SID to the leading aircraft infront may be released as soon as the first aircraft is airborne.
 
+## Takeoff Phraseology
+
+!!! info "Takeoff (Full Length)"
+    ZSABC, Runway 21R full length, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
+
+!!! info "Takeoff (Intersection)"
+    ZSABC, Runway 03L at Intersection J, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
+
 ## HIRO
 If deemed neccesary, HIRO will be in effect for landings into Runway 03R/21L. The aim is to expedite the flow of traffic to maximise efficiency and ensure the best arrival flow possible.
 

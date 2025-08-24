@@ -27,3 +27,4 @@ theme:
       accent: lime
 markdown_extensions:
   - admonition
+assets:

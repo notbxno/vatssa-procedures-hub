@@ -41,6 +41,14 @@ The responsibility of Tower at King Shaka falls to the dedicated Tower ATS unit,
 !!! note   
     Aircraft which are not affected by wake turbulence, and are operating on a different SID to the leading aircraft infront may be released as soon as the first aircraft is airborne.
 
+## Takeoff Phraseology
+
+!!! info "Takeoff (Full Length)"
+    ZSABC, Runway 06 full length, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
+
+!!! info "Takeoff (Intersection)"
+    ZSABC, Runway 06 at Intersection G, wind 080 degrees at 9 knots, cleared for takeoff, bye bye.
+
 ## Runway 24 Hotspot
 !!! warning
     During Runway 24 operations, there is an increased chance of conflict with vacating aircraft at G, and taxiing aircraft to the holding point Runway 24.
