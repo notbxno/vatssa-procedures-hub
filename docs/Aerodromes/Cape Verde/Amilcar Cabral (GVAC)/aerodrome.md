@@ -51,9 +51,9 @@ The following table should only be to determine the Transition Level for Durban 
 | Position    | Callsign              | Frequency | Remarks             |
 | :---------: | :---------: | :---------: | :---------: |
 | GVAC_ATIS   | Amilcabral ATIS     | 127.600   | -                   |
-| GVSC_DEL   | Sal Deliver     | 122.100   | Event use only, When online covers all airports in the FIR                   |
+| GVSC_DEL   | Sal Delivery     | 122.100   | Event use only, When online covers all airports in the FIR                   |
 | GVAC_0_GND    | Amilcabral Ground       | 122.650   | To be used for events only                   |
 | GVAC_TWR    | Amilcabral Tower    | 119.700   | -                   |
 | GVSC_APP    | Sal Approach | 126.400   | -                   |
 | GVSC_U_APP    | Sal Approach    | 128.300   | - |                |
-| GVSC_CTR    | Johannesburg Area     | 127.100   | - |                |
+| GVSC_CTR    | Sal Control/Oceanic     | 127.100   | - |                |
