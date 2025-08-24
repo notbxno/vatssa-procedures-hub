@@ -118,19 +118,5 @@ There is no SELCAL capabilities within the Cape Town FIR.
 
 !!! info
     All arrival clearances are to be transmitted through voice on initial contact. CPDLC may not be used for this function to issue arrival clearances.
-
-## Squawk Allocation
-
-### FACA
-
-**Domestic**
-
-* 0500 - 0577
-* 5400 - 5477
-* 3100 - 3177
-* 4500 - 4577
-
-**International**
-
-* 4700 - 4777
+s
 

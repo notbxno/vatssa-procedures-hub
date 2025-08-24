@@ -1,5 +1,0 @@
-title: South Africa
-sort_type: title
-nav:
-    - overview.md
-    - faca-w.md
