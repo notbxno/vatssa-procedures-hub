@@ -1,22 +1,23 @@
 # Tower
-The responsibility of Tower at King Shaka falls to the dedicated Tower ATS unit, "King Shaka Tower" (FALE_TWR) on 118.450. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Durban CTR from GND - 3000ft MSL.
+Amilcabral Tower is the main position that should be used at GVAC when online they operate of the frequency of 119.700, when online they assume the responsibilities of GND and DEL when offline (Prior permission required), they control a 5NM airspace around the GVAC airport.
 
-!!! note
-    As the frequency for departure is already handed in the IFR clearance, handoffs to the next ATS unit (Sal Approach) is not required with departing aircraft.
+!!! Warning
+    S1 controllers are permitted to connect to TWR after they have completed S2 theory exam.
 
 ## Visual Flight Rules (VFR) Aircraft
 
-  * There are no published VFR departure or arrival routings in and out of the Durban CTR. Traffic should instead be asked to report either leaving or entering the CTR, or via of the VRPs.
-  * Circuit altitude is 800ft, with circuits conducted towards the sea. Runway 06 (Right Hand), Runway 24 (Left Hand).
-  * Controllers should avoid extending downwinds signicifantly to avoid conflicts with traffic at Durban Virginia.
+  * There are no published VFR departure or arrival routings in and out of the Durban CTR. Traffic should instead be asked to report either leaving or entering the CTR.
+  * Circuit altitude is 1500ft AGL (1700 ft), with circuits conducted Left hand on 01 and Right hand on 19 
 
-!!! info "Circuit Clearance"
-    ZSABC, hold position, after departure Runway 06, right hand circuits, not above 800ft, report right downwind Runway 06.
+!!! tip "Circuit Clearance"
+    GPHPY, hold position, after departure Runway 01, left hand circuits, not above 1700 ft, report left downwind Runway 01.
 
-!!! info "Exit Clearance"
-    ZSABC, hold position, after departure Runway 06, cleared to leave the control zone to the east, not above 1500ft report overhead Tinley Manor."
+!!! tip "Exit Clearance"
+    GPHPY, hold position, after departure Runway 06, cleared to leave the control zone to the east, not above 1500ft report Leaving the CTR.
 
-// insert VRP map whenever the hell I make one
+    !!! warning Exit coordintation
+        Any CTR exits should be coordinated with any position above you prior to engine start. And only then will a start clearence be given 
+
 
 ## Wake Seperation
 
@@ -38,10 +39,8 @@ The responsibility of Tower at King Shaka falls to the dedicated Tower ATS unit,
 | M     | 3 | 2 | ||
 | L     | 3 | 2 | 2 | |
 
-!!! note   
-    Aircraft which are not affected by wake turbulence, and are operating on a different SID to the leading aircraft infront may be released as soon as the first aircraft is airborne.
+## Runway Selection
 
-## Runway 24 Hotspot
-!!! warning
-    During Runway 24 operations, there is an increased chance of conflict with vacating aircraft at G, and taxiing aircraft to the holding point Runway 24.
-    In this case, Tower may issue aircraft instructions to vacate right at the end at Charlie to avoid a potential conflict with prior coordination from Ground.
+!!! Note Runway Selection
+    Runway 01 should be used unless the Crosswind component is greater than 10 knots and runway 19 in use with the direction of wind.
+
