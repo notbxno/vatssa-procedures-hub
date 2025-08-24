@@ -30,7 +30,7 @@ The following table should only be to determine the Transition Level for Durban 
 | Runway | Course | TORA | TODA | ASDA | LDA | 
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | 
 | 01    | 008º    | 3000     | 3300     | 3000     | 3000    | 
-| 19    | 188º    | 3000     | 3300     | 3000     | 3000    | I   
+| 19    | 188º    | 3000     | 3300     | 3000     | 3000    |  
 
 ## Radio Navigation & Landing Aids
 
