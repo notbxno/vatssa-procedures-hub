@@ -6,6 +6,7 @@
 ## ATS Frequencies
 
 **Bandbox Frequencies**
+
 | Position    | Callsign              | Frequency | Covering             |
 | :---------: | :---------: | :---------: | :---------: |
 | FASA_CTR | South Africa Control | 128.325 | FACA and FAJA sectors |
@@ -13,12 +14,14 @@
 | FACA_CTR    | Cape Town Area Area     | 125.100   | FACA_W, FACA_E |
 
 **Combined Splits**
+
 | Position    | Callsign              | Frequency | Covering             |
 | :---------: | :---------: | :---------: | :---------: |
 | FAJA_N_CTR    | Johannesburg Area     | 134.400   | FAJA_NW, FAJA_NE, FAJA_SW, FAJA_SE|
 | FAJA_S_CTR    | Johannesburg Area     | 120.300   | FAJA_W, FAJA_C, FAJA_E |
 
 **Sector Splits**
+
 | Position    | Callsign              | Frequency | Covering             |
 | :---------: | :---------: | :---------: | :---------: |
 | FAJA_NW_CTR    | Johannesburg Area     | 134.700   | -                   |

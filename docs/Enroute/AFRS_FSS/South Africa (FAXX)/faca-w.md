@@ -53,6 +53,7 @@ The agreed level for handoff from ACC to a military APP unit is FL200.
 ## Letters of Agreement
 
 **FYWF, FAJA and FACA agree that:**
+
 * UN186 - Odd Levels
 * UN185 - Even Levels
 * UQ43/Q43 - Odd Levels
@@ -83,6 +84,7 @@ Aircraft routing on UN185 to UQ23 may be routed over R45A, over Langebaanweg and
 
 
 ## Enroute CPDLC / SELCAL
+
 The Cape Town Flight Information Region (FACA) is equipped and is able to operate enroute CPDLC coverage for aircraft operating above FL195, which is built into the sector files through TopSky, and requires an active Hoppie's Code to use.
 
 The following instructions can be transmitted via CPDLC.
@@ -129,5 +131,6 @@ There is no SELCAL capabilities within the Cape Town FIR.
 * 4500 - 4577
 
 **International**
+
 * 4700 - 4777
 
