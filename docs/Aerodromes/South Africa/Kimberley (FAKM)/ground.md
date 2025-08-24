@@ -1,7 +1,10 @@
 # Ground
 
+!!! info
+    Kimberley does not have a dedicated Ground frequency, as such all Ground responsibilities are assumed by Kimberley Tower (FAKM_TWR). Under no circumstances should a FAKM_GND position ever be opened without prior approval from staff.
+
 ## Visual Flight Rules (VFR) Aircraft.
-On initial call with the SMC controller, the VFR aircraft is expected to provide:
+On initial call with the controller assuming SMC responsibility, the VFR aircraft is expected to provide:
 
 * Aircraft Registration, if the callsign used is not the aircraft registration
 * Aircraft Type
@@ -10,10 +13,10 @@ On initial call with the SMC controller, the VFR aircraft is expected to provide
 * Intentions
 
 Once this data has been received by the SMC controller, the controller shall then issue the QNH, Active, and if operating on a FPL, a squawk.
-At Lanseria, filing a flight plan as VFR is not mandatory unlike Cape Town, so you do not need to ask for a pilot to file a flight plan.
+At Kimberley, filing a flight plan as VFR is not mandatory unlike Cape Town, so you do not need to ask for a pilot to file a flight plan.
 
 !!! info "VFR Phraseology"
-    "ZSHLA, thank you, start up approved, expect Runway 07, QNH 1015, report ready for taxi."
+    "ZSKIM, thank you, start up approved, expect Runway 02, QNH 1015, report ready for taxi."
 
 
 ## Pushback Procedures

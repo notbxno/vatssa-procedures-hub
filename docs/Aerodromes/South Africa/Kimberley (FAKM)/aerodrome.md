@@ -1,67 +1,60 @@
 # Aerodrome Data
-Lanseria International Airport is a privately owned international airport located north of Johannesburg, South Africa. It serves as a convenient alternative to the larger O.R. Tambo International Airport, offering domestic and international flights. The airport is known for its efficient operations, modern facilities, and focus on luxury travel, making it a popular choice for private jet charters and VIP services.
+Kimberley Airport (IATA: KIM, ICAO: FAKM) based in the Northern Cape is an airport that serves Kimberley, the capital city of the province and its surrounding areas. It was established in 1912. The airport is approximately 6.5 kilometers (12 minutes) away from the centre of Kimberley. Annually, the Airport transports approximately 170,000 passengers across around 10,000 flights through airlines Airlink and ChemAir and provides regular domestic flights in South Africa between Cape Town International Airport and O.R Tambo International Airport in Johannesburg.
 
 
 ## Aerodrome Details
 
 |  Chief Dawid Stuurman Intl   |                           |
 | :---------: | :----------------------------------: |
-| ICAO | FALA |
-| IATA | HLA |
-| Elevation | 4521ft |
-| Transition Altitude | 8000ft |
+| ICAO | FAKM |
+| IATA | KIM |
+| Elevation | 3950ft |
+| Transition Altitude | 7000ft |
 | Transition Level | by ATC (see TL table) |
 | Mag Variation | 18º W |
 
 ## Transition Levels
 
-The following table should only be to determine the Transition Level for Port Elizabeth (FAPE).
+The following table should only be to determine the Transition Level for Kimberley (FAKM).
 
 | QNH Range | TL |
 | :---------: | :---------: |
-| 946 - 962 | 110 |
-| 963 - 979 | 105 |
-| 980 - 996 | 100 |
-| 997 - 1013 | 95 |
-| 1014 - 1029 | 90 |
-| 1030 - 1046 | 85 |
-| 1047 - 1099 | 80 |
+| 946 - 962 | 100 |
+| 963 - 979 | 95 |
+| 980 - 996 | 90 |
+| 997 - 1013 | 85 |
+| 1014 - 1029 | 80 |
+| 1030 - 1046 | 75 |
+| 1047 - 1099 | 70 |
 
 ## Declared Distances
 
 | Runway | Course | TORA | TODA | ASDA | LDA | Remarks |
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
-| 07     | 047º    | 2996     | 4496     | 2996     | 2996    | - |
-| 25     | 227º    | 2996     | 4547     | 2996     | 2925    | - |
+| 02     | 021º    | 3002     | 3302     | 3002     | 3002    | - |
+| 10     | 101º    | 2437     | 2737     | 2437     | 2437    | - |
+| 20     | 201º    | 3002     | 3302     | 3002     | 3002    | - |
+| 28     | 281º    | 2437     | 2737     | 2437     | 2437    | - |
+
+
 ## Radio Navigation & Landing Aids
 
 | Type | ID | Frequency | 
 | :---------: | :---------: | :---------: |
-| VOR DME | LIV | 117.4 MHz |
-| UHF DME (TACAN) | LIV | CH 121X |
-| ILS LOC 08 | LAI | 110.7 MHz |
+| VOR DME | KYV | 113.2 MHz |
+| UHF DME (TACAN) | KYV | CH 79X |
 
 ## Aprons 
 
 | Apron | Stands | Entry/Exit Point | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| Apron A | A1 - A2  | Twy R                | A1-A2 has multiple stands and L, R    |
-| Apron B   | B1 - B10 | Twy S, R             | -                                     |
-| Apron C | C1 - C7  | Twy U                | One Helipad                           |
-| North Hangers  | -        | Twy P                | General Aviation                      |
-| South Hangers  | -        | Twy B                | General Aviation                      |
-| ExecuJet      | -        | Twy T                | -                                     |
+| Apron | 1-4 | Twys A and C                | | |
 
 ## ATS Frequencies
 
 | Position    | Callsign              | Frequency | Remarks             |
 | :---------: | :---------: | :---------: | :---------: |
-| FALA_ATIS   | Lanseria ATIS         | 127.650   | -                   |
-| FALA_GND    | Lanseria Ground       | 121.650   | - |
-| FALA_TWR    | Lanseria Tower        | 124.000   | -                   |
-| FAOR_APP    | Johannesburg Radar  | 124.500   | -                   |
-| FAOR_W_APP    | Johannesburg Radar  | 123.700   | Primary unit overseeing FALA                   |
+| FAKM_TWR    | Kimberley Tower        | 118.200   | -                   |
+| FAKM_APP    | Kimberley Approach  | 119.400   | -                   |
+| FAJA_S_CTR    | Johannesburg Area     | 120.300   | Same frequency is used if FAJA_C is working standalone and not W + E combined. |
 | FAJA_CTR    | Johannesburg Area     | 134.400   | Frequency can be used for FAJA_N or FAJA_NE |
-| FAJA_NW_CTR    | Johannesburg Area     | 126.700   | -                   |
-| FAJA_SW_CTR    | Johannesburg Area     | 128.300   | -                   |
-| FAJA_SE_CTR    | Johannesburg Area     | 132.150   | -                   |
