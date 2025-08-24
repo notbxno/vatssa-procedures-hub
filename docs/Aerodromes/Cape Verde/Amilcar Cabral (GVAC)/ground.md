@@ -22,7 +22,7 @@ On all taxiways the largest aircraft that operate at GVAC IRL is the 787-800 ope
 
 ### Stand Restrictions
 
-!!! Res Stand Restrictions
+!!! Note Res Stand Restrictions
     All stands allow Medium aircraft to ocupy them I.E. A320/B738 However it is recommended that if larger catagory of aircraft connect they ocupy stand 10, 8, 7, or 6
 
 
@@ -69,7 +69,9 @@ Pushback is very self explanitory however some outliers exist, examples of which
 When an aircraft arrives into GVAC, it is recommened to issue a progressive taxi, this is due to the small size of the apron, an example of this is provided bellow.
 
 !!! Note Progressive taxi example during runway 19 operations
+
     ![alt text](progtaxi.png)
+    
     At first the aircraft should be instructed to taxi via A1 and hold short of B
 
     Once sure the apron will be clear for the passing aircraft, they may be cleared into the apron
