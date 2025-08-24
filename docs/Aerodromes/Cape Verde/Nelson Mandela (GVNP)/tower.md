@@ -42,5 +42,5 @@ Amilcabral Tower is the main position that should be used at GVNP when online th
 ## Runway Selection
 
 !!! Note "Runway Selection"
-    Runway 03 should be used unless the tailwind component is greater than 10 knots and runway 19 in use with the direction of wind.
+    Runway 03 should be used unless the tailwind component is greater than 10 knots and runway 21 in use with the direction of wind.
 

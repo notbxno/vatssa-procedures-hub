@@ -14,7 +14,7 @@ GVNP (Nelson Mandela International Airport) is located on Santiago Island, Cape 
 
 ## Transition Levels
 
-The following table should only be to determine the Transition Level for Durban King Shaka (FALE).
+The following table should only be to determine the Transition Level for Nelson Mandela International airport (GVNP).
 
 | QNH Range | TL |
 | :---------: | :---------: |

@@ -14,7 +14,7 @@ GVAC (Amílcar Cabral International Airport) is on Sal Island, Cape Verde, just 
 
 ## Transition Levels
 
-The following table should only be to determine the Transition Level for Durban King Shaka (FALE).
+The following table should only be to determine the Transition Level for Amilcar Cabral International Airport (GVAC).
 
 | QNH Range | TL |
 | :---------: | :---------: |

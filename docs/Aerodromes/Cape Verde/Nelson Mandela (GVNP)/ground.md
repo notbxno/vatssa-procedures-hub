@@ -23,16 +23,10 @@ On all taxiways the largest aircraft that operate at GVNP IRL is the A320N opera
 
 ### Taxiway and Apron Restrictions
 
-!!! Warning 
-    All taxiways in the airport have a Width of 23 M, as a result any larger aircraft must be reminded of this and that it is taxi at their own risk and must maintain a good amount of spacial awairness
+There are no specific restrictions howevercaution must be taken by controllers to keep pushbacks efficient due to the small size of the apron, a controller must ensure the traffic remain clear of each other and to allow enough space for vacating traffic to fully vacate to remain efficient.
 
-    !!! Tip "Phraseology for A/C with a wingspan > 23 M"
-        "TOM1VY, Runway 01 Taxi via E, B, A1, Caution Taxiway width"
-
-    !!! Tip "Phraseology for A/C with a wingspan < 23 M"
-        "TOM1VY, Runway 01 Taxi via E, B, A1"
-
-
+!!! Warning
+    If GVNP, ever hosts CAF or CTP, **Mashallah Marlon, thats what we want,** pushbacksa must be planned to ensure aircraft dont miss slot times and cause delays.
 
 ## Pushback Procedures
 
