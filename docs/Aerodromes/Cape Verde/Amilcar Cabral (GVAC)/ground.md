@@ -45,7 +45,6 @@ At Durban, the following stands can be used in conjuction with each other, up to
 | D1 and D3 | D2 |
 | D4 and D6 | D5 |
 
-![alt text](mars.png)
 
 ### Taxiway and Apron Restrictions
 
@@ -58,7 +57,6 @@ At Durban, the following stands can be used in conjuction with each other, up to
 | Bravo Apron | Code C (max 36m wingspan)
 | Echo Apron | Code B (max 24m wingspan)
 
-![alt text](restrictionmap.png)
 
 
 ## Pushback Procedures
