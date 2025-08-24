@@ -2,7 +2,7 @@
 The responsibility of Tower at King Shaka falls to the dedicated Tower ATS unit, "King Shaka Tower" (FALE_TWR) on 118.450. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Durban CTR from GND - 3000ft MSL.
 
 !!! note
-    As the frequency for departure is already handed in the IFR clearance, handoffs to the next ATS unit (Durban Approach) is not required with departing aircraft.
+    As the frequency for departure is already handed in the IFR clearance, handoffs to the next ATS unit (Sal Approach) is not required with departing aircraft.
 
 ## Visual Flight Rules (VFR) Aircraft
 
