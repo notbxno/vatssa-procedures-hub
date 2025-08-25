@@ -64,17 +64,6 @@ Should you be the unit to control Mthatha top down, the aircraft should then cal
 * Consequently the following ATM elements need to be considered. ATS Surveillance Control Service will be automatically transferred from Approach or from adjacent Area Control Sectors, which will mean that the frequency change will not include a termination of ATS Surveillance control Service. 
 * Pilots are to take note that the En-route separation of 10 minutes at same level may be reduced to 10NM, demanding appropriate vigilance, R/T discipline and accuracy.
 
-## Noticable Conflict Points
-
-At busy hours, traffic from UN185/UQ23 and UQ10/Q10 merging into CSV may create a bottleneck for aircraft flying into ERDAS.
-
-In this case, FACA_W should plan ahead to ensure sufficient separation of approximately 15-20 miles in trail to the APP controller.
-
-Aircraft routing on UQ10/Q10 may be diverted to GETEN to join an arrival from there.
-
-Aircraft routing on UN185 to UQ23 may be routed over R45A, over Langebaanweg and into the sea to join an arrival from ASPIK to reduce load.
-
-
 ## Enroute CPDLC / SELCAL
 
 The Cape Town Flight Information Region (FACA) is equipped and is able to operate enroute CPDLC coverage for aircraft operating above FL195, which is built into the sector files through TopSky, and requires an active Hoppie's Code to use.

@@ -27,4 +27,23 @@ theme:
       accent: lime
 markdown_extensions:
   - admonition
-assets:
+
+plugins:
+  - search:
+      lang: en
+  - awesome-pages:
+        strict: false
+        order: asc
+        sort_type: natural
+        order_by: title
+  - git-revision-date-localized:
+      type: date
+      strict: false
+  - external-markdown: {}
+  - glightbox:
+      touchNavigation: true
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: false
