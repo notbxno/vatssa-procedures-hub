@@ -34,12 +34,6 @@ SAA369, cleared inbound FL340.
 
 The pilot should read back their cleared level as confirmation.
 
-## Activation of R45A and R147
-
-During approved vSOA activites, areas R45A and R147 may become activated. For these areas to be activated, a dedicated FALW_APP should be online.
-
-FACA-W is to take extreme caution, and in the event overflights occur over these areas, is not to descend aircraft below FL200.
-
 ## Handoff Agreement
 
 The agreed level for handoff from ACC to a civil APP unit is FL160.
@@ -50,20 +44,18 @@ The agreed level for handoff from ACC to a military APP unit is FL200.
 
     Only once the controller is satisfied that the pilot will not leave controlled airspace whilst descending, should the aircraft then be given further descent to FL160 and a handoff.
 
-## Letters of Agreement
+## Mthatha (FAUT) Arrival Procedure
 
-**FYWF, FAJA and FACA agree that:**
+Mthatha Airport (IATA: UTT, ICAO: FAUT) is an airport serving Mthatha (formerly Umtata), a city in the Eastern Cape province of South Africa.
 
-* UN186 - Odd Levels
-* UN185 - Even Levels
-* UQ43/Q43 - Odd Levels
+Mthatha is a towered aerodrome, but has no controlled airspace around it. As a result, pilots flying into FAUT will need to navigate uncontrolled airspace before contacting approach at an RNAV IAF fix to commence the approach.
 
-Handoffs to FAJA_W, FAJA_WE or FAJO: **10 Minutes Longitudinal Separation Required**
+In this instance, aircraft are to be descended to the lowest suitable level of the FIR, at FL200. Once reaching FL200, the aircraft should have its radar services terminated, before being advised to broadcast on 122.8, or the relevant FIS frequency if one is online.
 
-!!! warning
-    FACA_W should ensure that aircraft travelling northbound into FAJA-W are on odd levels before handoff. Aircraft entering on even levels require prior coordination.
+!!! info "Phraseology"
+    "(callsign), radar control terminated, broadcast 122.8."
 
-![alt text](loa.png)
+Should you be the unit to control Mthatha top down, the aircraft should then call you back established on final approach for the designed runway in use.
 
 ## Use of Radar Separation
 
