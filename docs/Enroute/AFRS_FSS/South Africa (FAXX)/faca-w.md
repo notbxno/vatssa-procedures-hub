@@ -1,4 +1,4 @@
-# 2. Cape Town Area (West)
+# Cape Town Area (West)
 
 ![alt text](image-1.png)
 

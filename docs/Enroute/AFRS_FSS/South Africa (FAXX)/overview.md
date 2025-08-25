@@ -1,4 +1,4 @@
-# 1. Overview
+# Overview
 
 ![alt text](image.png)
 
