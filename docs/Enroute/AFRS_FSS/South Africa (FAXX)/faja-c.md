@@ -1,29 +1,31 @@
-# 3. Cape Town Area (East)
+# 5. Johannesburg Area (Central)
 
-![alt text](image-2.png)
+![alt text](image-4.png)
 
 ## Inbound / Arrival Clearances
 
-On contact with the first FACA unit (FACA_W) or (FACA_E), the controller will be the one to issue the arrival clearance into Cape Town. Controllers are to check the latest NOTAMs, aswell as the Cape Town TMA page to keep up to date with the latest STARs in use.
+Arrival clearances for FAJA airports are issued by the first FAJA ATS unit that the plane will have contact with.
 
-!!! note 
-    These STARs are also applicable for aircraft flying into Ysterplaat (FAYP)
+For flights flying to O.R. Tambo Intl (FAOR), either transferred from a FACA unit, or climbing out of Kimberley/Blomfontein will need to have their clearance issued by you.
+
+For aircraft which are also flying to Durban, and you are the first FAJA ATS unit to have contact with the aircraft, you will also need to issue the relevant arrival clearance for Durban
+
+For aircraft passing through the FAJA_C sector, most FAOR arrivals will converge at NIBEX.
 
 When giving the arrival clearance, the aircraft should first be cleared inbound into the sector at their current level, before being passed a STAR, landing runway, and ATIS code in range.
+
+!!! warning
+    When issuing the landing runway, only the direction shall be given. i.e. 03 or 21, and not 03L or 21R. Johannesburg Radar (FAOR_APP) is the primary ATS unit to give this on initial check in. Should a pilot ask, tell them to expect the landing runway later.
 
 !!! info "STAR Clearance Phraseology"
     "(callsign), cleared inbound FL(flight level), (STAR) arrival landing (runway), check ATIS (code) in range."
 
+
 e.g.
 
-SAA369, cleared inbound FL340, ERDAS1C arrival landing Runway 01, check ATIS B in range.
+SAA369, cleared inbound FL350, NIBEX1B arrival, landing 03, check ATIS Y in range.  
 
-Should the aircraft either:
-* Already have received its STAR clearance for FACT/FAYP from another ATS unit
-* Overflying FACA or your sector in general
-* Flying to FAGG, FAPE, FAEL where the aircraft route terminates at the destination VOR.
-
-then the controller should only clear the aircraft at their level.
+Should the aircraft only be overflying the ATS sector (i.e. flying from FAJA_SW into FACA or otherwise), then the controller should only clear the aircraft at their level.
 
 !!! info "Inbound Phraseology"
     "(callsign), cleared inbound FL(flight level)."
@@ -33,13 +35,6 @@ e.g.
 SAA369, cleared inbound FL340.
 
 The pilot should read back their cleared level as confirmation.
-
-Should an aircraft be on the climb out of Port Elizabeth, George or East London or otherwise:
-
-!!! info "STAR Clearance Phraseology (climbing)"
-    "(callsign), climb to FL(flight level), (STAR) arrival landing (runway), check ATIS (code) in range."
-
-SAA609, cimb to FL340, cleared ERDAS1A arrival, landing runway 01, check ATIS F in range.
 
 ## Handoff Agreement
 
@@ -51,18 +46,15 @@ The agreed level for handoff from ACC to a military APP unit is FL200.
 
     Only once the controller is satisfied that the pilot will not leave controlled airspace whilst descending, should the aircraft then be given further descent to FL160 and a handoff.
 
-## Mthatha (FAUT) Arrival Procedure
+## Letters of Agreement
 
-Mthatha Airport (IATA: UTT, ICAO: FAUT) is an airport serving Mthatha (formerly Umtata), a city in the Eastern Cape province of South Africa.
+Aircraft flying into the Johannesburg TMA should be handed off to the next ATS unit with at least 20 miles in trail of each other. In case this can not be satisfied, the controller must coordinate with the relevant ATS unit.
 
-Mthatha is a towered aerodrome, but has no controlled airspace around it. As a result, pilots flying into FAUT will need to navigate uncontrolled airspace before contacting approach at an RNAV IAF fix to commence the approach.
+### Maseru
 
-In this instance, aircraft are to be descended to the lowest suitable level of the FIR, at FL200. Once reaching FL200, the aircraft should have its radar services terminated, before being advised to broadcast on 122.8, or the relevant FIS frequency if one is online.
+All aircraft flying into and out of FXMM are subject to 10 minute separation on all inbound and outbound flights heading in the same direction.
 
-!!! info "Phraseology"
-    "(callsign), radar control terminated, broadcast 122.8."
-
-Should you be the unit to control Mthatha top down, the aircraft should then call you back established on final approach for the designed runway in use.
+Aircraft may be handed directly to FXMM_APP rather than passing through FAJA_E_CTR. Handoffs at FL200.
 
 ## Use of Radar Separation
 
@@ -73,7 +65,7 @@ Should you be the unit to control Mthatha top down, the aircraft should then cal
 
 ## Enroute CPDLC / SELCAL
 
-The Cape Town Flight Information Region (FACA) is equipped and is able to operate enroute CPDLC coverage for aircraft operating above FL195, which is built into the sector files through TopSky, and requires an active Hoppie's Code to use.
+The Johannesburg Flight Information Region (FAJA) is equipped and is able to operate enroute CPDLC coverage for aircraft operating above FL195, which is built into the sector files through TopSky, and requires an active Hoppie's Code to use.
 
 The following instructions can be transmitted via CPDLC.
 

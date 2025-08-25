@@ -52,6 +52,13 @@ Flights flying in from the Cape Town East sector, or arriving from Beira ACC int
 !!! info "STAR Clearance Phraseology"
     "(callsign), cleared inbound FL(flight level), (STAR) arrival landing (runway), check ATIS (code) in range."
 
+Should an aircraft be on the climb out of King Shaka or otherwise:
+
+!!! info "STAR Clearance Phraseology (climbing)"
+    "(callsign), climb to FL(flight level), (STAR) arrival landing (runway), check ATIS (code) in range."
+
+SAA609, cimb to FL340, after EPSAK direct UNPOM, cleared UNPOM1A landing 03, check ATIS E in range.
+
 ## Handoff Agreement
 
 The agreed level for handoff from ACC to a civil APP unit is FL160.
@@ -100,6 +107,8 @@ All aircraft flying into and out of FXMM are subject to 10 minute separation on 
 ### Matsapha TMA
 
 ALl aircraft flying in and out of the Matspha TMA are subject to 10 minute separation on all inbound and outbound flights heading in the same direction.
+
+Handoffs are also set as FL200 inbound, FL190 outbound.
 
 ## Use of Radar Separation
 
