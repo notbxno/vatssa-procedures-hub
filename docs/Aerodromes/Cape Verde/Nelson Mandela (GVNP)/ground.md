@@ -1,5 +1,5 @@
 # Ground
-The responsibility of GMC at Amilcabral Ground falls to the dedicated Ground ATS unit, There is no designated GND position so this will be TWR's responsibility. GMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. GMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway.
+The responsibility of GMC at GVNP falls to the dedicated Ground ATS unit, There is no designated GND position so this will be TWR's responsibility. GMC will be responsible for the aerodrome movements outside of the runway, including pushback and taxi to/from the runway. GMC will also be responsible for the initial call of VFR aircraft looking for start and taxi to the runway.
 
 ## Visual Flight Rules (VFR) Aircraft.
 On initial call with GMC, the VFR aircraft is expected to provide:
@@ -10,7 +10,7 @@ On initial call with GMC, the VFR aircraft is expected to provide:
 * Intentions
 
 Once this data has been received by the GMC controller, the controller shall then issue the QNH, Active, and if operating on a FPL, a squawk.
-At Sal, filing a flight plan as VFR is mandatory.
+At GVNP, filing a flight plan as VFR is mandatory.
 
 !!! Tip "VFR Phraseology"
     "GPHPY, thank you, start up approved, expect Runway 06, QNH 1015, report ready for taxi."
@@ -30,27 +30,14 @@ There are no specific restrictions howevercaution must be taken by controllers t
 
 ## Pushback Procedures
 
-Pushback is very self explanitory however some outliers exist, examples of which will be featured bellow:
+Pushbacks must be done in the direction of the runway in use
 
-!!! Note "Pushback on 01 Operations"
-    Aicraft located on stand 07 *Could* be instructed to push into Taxiway C (This would be given **INSTEAD** of a push direction), this improves Operational efficiency to the airport as it free's the apron area during high traffic
-
-    !!! Warning 
-        On MSFS GSX profiles do not have this as an option and therefor most aircraft wont be able to push like this
-    
-    All other stands are required to push facing south 
-
-!!! Note "Pushback on 19 Operations"
-    Aicraft located on stand 01 *Could* be instructed to push into Taxiway E (This would be given **INSTEAD** of a push direction), this improves Operational efficiency to the airport as it free's the apron area during high traffic
-
-    !!! Warning 
-        On MSFS GSX profiles do not have this as an option and therefor most aircraft wont be able to push like this
-    
-    All other stands are required to push facing North 
+!!! failure
+    Use common sense bassically
 
 
-!!! Tip "Phraseology for pushback"
-    "TOM1VY, Push and start approaved Face North/South/Into taxiway X, QNH XXXX"
+!!! tip "Phraseology for pushback"
+    "TOM1VY, Push and start approaved Face North/South, QNH XXXX"
 
 
 
