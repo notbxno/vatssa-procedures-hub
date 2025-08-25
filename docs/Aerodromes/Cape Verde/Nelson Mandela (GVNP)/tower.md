@@ -7,7 +7,7 @@ Amilcabral Tower is the main position that should be used at GVNP when online th
 ## Visual Flight Rules (VFR) Aircraft
 
   * There are no published VFR departure or arrival routings in and out of the Praia CTR. Traffic should instead be asked to report either leaving or entering the CTR.
-  * Circuit altitude is 1500ft AGL (1700 ft), with circuits conducted Right hand on 03 and Left hand on 19 to avoid terrain
+  * Circuit altitude is 1500ft AGL (1800 ft), with circuits conducted Right hand on 03 and Left hand on 19 to avoid terrain
 
 !!! tip "Circuit Clearance"
     GPHPY, hold position, after departure Runway 03, left hand circuits, not above 1700 ft, report left downwind Runway 03.
