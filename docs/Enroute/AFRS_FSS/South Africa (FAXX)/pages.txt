@@ -1,5 +1,0 @@
-order_by: title
-nav:
-    - Home: index.md
-    - faca-w.md
-    - faca-e.md
