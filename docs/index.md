@@ -2,9 +2,7 @@
 
 **Welcome to the VATSSA Procedures Hub.**
 
-This page is now the home to all things related to procedures for the VATSSA region of VATSIM. This includes pages for specific aerodromes as well as enroute positions.
-
-We will continously update this page as time goes on with new aerodromes and enroute positions covered, as we aim to make this as detailed as possible for the benefit of controllers and pilots to use when flying within the VATSSA region.
+I'm testing things here.
 
 ## Format
 
