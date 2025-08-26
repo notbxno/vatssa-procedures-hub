@@ -77,7 +77,7 @@ At Durban, the following stands can be used in conjuction with each other, up to
 
 ## Taxi Procedures
 
-By default, all aircraft should be taxiied to the full length holding point unless otherwise requested by a pilot.
+By default, all aircraft should be taxied to the full length holding point unless otherwise requested by a pilot.
 
 During Runway 06 operations, only C and G may be used as departure points, and during Runway 24, only H and M may be used as departure points.
 
