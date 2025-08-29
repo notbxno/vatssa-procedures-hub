@@ -33,6 +33,7 @@ The following table should only be to determine the Transition Level for Port El
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 | 07     | 047º    | 2996     | 4496     | 2996     | 2996    | - |
 | 25     | 227º    | 2996     | 4547     | 2996     | 2925    | - |
+
 ## Radio Navigation & Landing Aids
 
 | Type | ID | Frequency | 
