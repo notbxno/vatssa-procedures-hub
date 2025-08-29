@@ -1,12 +1,12 @@
-# 4. Johannesburg Area (East)
+# 7. Johannesburg Area (South-East)
 
-![alt text](image-3.png)
+![alt text](image-8.png)
 
 ## Inbound / Arrival Clearances
 
 Arrival clearances for FAJA airports are issued by the first FAJA ATS unit that the plane will have contact with.
 
-For flights flying to O.R. Tambo Intl (FAOR), either flying from an airport in the Durban Region, from Maseru or otherwise, then FAJA_E will be the unit to issue the arrival clearance into O.R. Tambo.
+In the FAJA-SE sector, aircraft flying to Durban will have the inbound clearance issued by FAJA-SE.
 
 As of 25/08/2025, the STV arrivals are no longer in effect for FAOR. However, as STV still remains a waypoint on the UZ29 airway, aircraft will instead need to be taken off the airway to be routed to "UNPOM" to join the arrival.
 
@@ -39,25 +39,14 @@ SAA369, cleared inbound FL340.
 The pilot should read back their cleared level as confirmation.
 
 !!! warning
-    You will not be issuing arrival clearances for FALE if an aircraft transfers over from another FAJA unit, i.e. a flight flying from FAOR -> FALE will have its arrival clearance issued by the sector covering the FAJA_SE sector. As a result, you will only be clearing them inbound into the FAJA_E sector at their level.
+    You will not be issuing arrival clearances for FAOR if an aircraft transfers over from another FAJA unit, i.e. a flight flying from FALE -> FAOR will have its arrival clearance issued by the sector covering the FAJA_E sector. As a result, you will only be clearing them inbound into the FAJA_SE sector at their level.
 
-    Should there not be a sector online covering FAJA_SE, in this case you will then need to issue the arrival clearance for FALE as you will be the first FAJA unit to do so.
+    Should there not be a sector online covering FAJA_E, in this case you will then need to issue the arrival clearance for FALE as you will be the first FAJA unit to do so.
 
 i.e.
 
-SAA369, cleared inbound FL350, APMAT1A arrival landing 06, check ATIS E in range.
+SAA369, cleared inbound FL350, UNPOM1B arrival, landing 21, check ATIS E in range.
 
-Flights flying in from the Cape Town East sector, or arriving from Beira ACC into Durban will need to have their arrival clearance issued as such by you, as you will be the first FAJA unit.
-
-!!! info "STAR Clearance Phraseology"
-    "(callsign), cleared inbound FL(flight level), (STAR) arrival landing (runway), check ATIS (code) in range."
-
-Should an aircraft be on the climb out of King Shaka or otherwise:
-
-!!! info "STAR Clearance Phraseology (climbing)"
-    "(callsign), climb to FL(flight level), (STAR) arrival landing (runway), check ATIS (code) in range."
-
-SAA609, cimb to FL340, after EPSAK direct UNPOM, cleared UNPOM1A landing 03, check ATIS E in range.
 
 ## Handoff Agreement
 
@@ -103,10 +92,6 @@ Aircraft routing via ORNAD or TONKA will initially be handed to FDSK_APP before 
     Should two aircraft be on track for the same entry waypoint into FQMA (either ORNAD, TONKA or EPRET), then guaranteed that the 10 minute separation will not be a factor, the other aircraft may be routed to a different entry point in accordance to avoid a 10 minute delay.
 
 Aircraft not flying into FQMA, but are transitting via the FQBE FIR should ensure 10 minute separation between aircraft at the same level. Aircraft typically flying into FQBE will be handed off at eastbound levels.
-
-### Maseru
-
-All aircraft flying into and out of FXMM are subject to 10 minute separation on all inbound and outbound flights heading in the same direction.
 
 ### Matsapha TMA
 
