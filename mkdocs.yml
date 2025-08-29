@@ -27,6 +27,7 @@ theme:
       accent: lime
 markdown_extensions:
   - admonition
+  - footnotes
 
 plugins:
   - search:
