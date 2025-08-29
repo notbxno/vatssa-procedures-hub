@@ -83,20 +83,24 @@ Southbound: Even Levels
 
 ### Maputo
 
-![alt text](image-5.png)
+![alt text](image-7.png)
 
 The Letter of Procedure between the FAJA ACC and FQBE ACCs is as follows:
 
 **FAJA ACC E -> FQMA APP**: 10 Minutes
 **FAJA ACC E -> FQBE ACC**: 10 Minutes
 
-Aircraft flying into FQMA should be routed into either TONKA or EPRET, where they will be directly handed off to the ATS unit covering Maputo APP.
+Aircraft flying into FQMA should be routed into either ORNAD, TONKA or EPRET.
+
+Aircraft routing via ORNAD or TONKA will initially be handed to FDSK_APP before handoff to the relevant Maputo APP frequency.
 
 !!! note
-    The levels depicted aren't to be confused for "level at a waypoint". This is simply the handoff altitude agreed between the two ATS units, and an early handoff around FL240-FL250 should be accomodated to ensure a smooth flow of traffic.
+    The levels depicted are depicted "level at a waypoint". Early handoffs should be the priority to ensure a smooth transition between the relevant ATS units.
+
+    "SAA304, descend FL170 to be level at IMKID."
 
 !!! tip
-    Should two aircraft be on track for the same entry waypoint into FQMA (either TONKA or EPRET), then guaranteed that the 10 minute separation will not be a factor, the other aircraft may be routed in accordance to avoid a 10 minute delay.
+    Should two aircraft be on track for the same entry waypoint into FQMA (either ORNAD, TONKA or EPRET), then guaranteed that the 10 minute separation will not be a factor, the other aircraft may be routed to a different entry point in accordance to avoid a 10 minute delay.
 
 Aircraft not flying into FQMA, but are transitting via the FQBE FIR should ensure 10 minute separation between aircraft at the same level. Aircraft typically flying into FQBE will be handed off at eastbound levels.
 
