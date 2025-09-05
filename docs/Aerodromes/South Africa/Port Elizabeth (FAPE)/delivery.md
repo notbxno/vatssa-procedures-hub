@@ -21,7 +21,7 @@ Runway 08/26
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| ANY | RWY TRK | FL90 | - |
+| ANY | RWY TRK | FL70 | - |
 
 ## Phraseology
 
@@ -29,4 +29,4 @@ Runway 08/26
 
 Runway Track
 !!! info "Delivery Phraseology"
-    "(callsign), cleared to (destination), FLxxx on request, after departure Runway XX, non standard, maintain runway track, climb to 8000ft, passing 2000ft, contact Port Elizabeth Approach on 120.4,, squawk (squawk)"
+    "(callsign), cleared to (destination), FLxxx on request, after departure Runway XX, non standard, maintain runway track, climb to FL70, passing 2000ft, contact Port Elizabeth Approach on 120.4,, squawk (squawk)"
