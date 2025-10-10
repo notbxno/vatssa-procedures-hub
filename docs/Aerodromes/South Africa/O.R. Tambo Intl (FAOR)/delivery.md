@@ -57,7 +57,7 @@ Runway 03L
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| APDAK | APDAK1B | FL90 | - |
+| APDAK | RWY TRK | FL90 | - |
 | EXOBI | EXOBI1A | FL90 | - |
 | RAGUL | RAGUL3A | 8000ft | - |
 | VASUR | VASUR3A | 8000ft | - |
